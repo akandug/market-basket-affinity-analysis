@@ -42,7 +42,7 @@ This project shifts a retail store's merchandising from "intuition-based" guessw
 ## Preview
 [Dashboard Sreenshot] (https://github.com/akandug/market-basket-affinity-analysis/blob/main/MarketBasket%20Dashboard.PNG )
 [Dashboard Sreenshot2] (https://github.com/akandug/market-basket-affinity-analysis/blob/main/MarketBasket%20Dashboard2.PNG )
-[Product Rank Engine Sreenshot] ( )
+[Product Rank Engine Sreenshot] (https://github.com/akandug/market-basket-affinity-analysis/blob/main/Product%20Rank%20Engine.PNG )
 
 
 ---
