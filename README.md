@@ -39,6 +39,12 @@ This project shifts a retail store's merchandising from "intuition-based" guessw
 
 ---
 
+## Preview
+[Dashboard Sreenshot] ( )
+
+
+
+---
 ##  Strategic Insights
 
 ###  Insight 1: "The Trinity" (High Support)
