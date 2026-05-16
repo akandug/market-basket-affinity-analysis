@@ -20,7 +20,7 @@ This project shifts a retail store's merchandising from "intuition-based" guessw
 ---
 
 ##  Data Architecture & Tech Stack
-
+* Excel, MySQL, Tableau
 
 ### 1. Data Engineering (MySQL)
 * Cleaned raw transaction logs and removed anomalies.
